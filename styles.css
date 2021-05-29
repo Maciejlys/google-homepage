@@ -104,6 +104,8 @@ li:hover{
     width: 130px;
     height: 40px;
     border: 1px solid transparent;
+    text-align: center;
+    text-overflow: clip;
 }
 
 #search-buttons{
